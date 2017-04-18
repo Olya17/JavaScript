@@ -10,8 +10,9 @@ a {
 /* INTRO */
 .intro {
   max-width: 1366px;
+  min-width: 100vw;
   height: 737px;
-  min-height: 100vh;
+  min-height: 70vh;
   background: url("./bouncy/background.jpg") no-repeat;
   background-size: cover;
   color: #ffffff; }
